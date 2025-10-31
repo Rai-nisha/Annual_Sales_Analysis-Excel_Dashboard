@@ -119,7 +119,7 @@ To provide **Vmart** with a comprehensive analysis of annual sales data by focus
 ---
 
 ## 🎬 Final Dashboard
-  📊 (finalDashboard.png)  
+  📊 ![Presentation Screenshot](finalDashboard.png)  
 *Highlights from the final dashboard presentation showcasing insights and recommendations.*
 
 ---
