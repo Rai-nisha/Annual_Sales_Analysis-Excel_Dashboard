@@ -62,7 +62,7 @@ To provide **Vmart** with a comprehensive analysis of annual sales data by focus
 
 ## 🗓️ Project Workflow
 
-### **Day 1 – Data Collection & Preparation**
+### **1 – Data Collection & Preparation**
 - Cleaned dataset (removed duplicates, handled missing values)
 - Standardized date and currency formats
 - Added analytical columns:
@@ -73,7 +73,7 @@ To provide **Vmart** with a comprehensive analysis of annual sales data by focus
 
 ---
 
-### **Day 2 – Sales & Customer Demographics Analysis**
+### **2 – Sales & Customer Demographics Analysis**
 - Used **Pivot Tables** to calculate:
   - Total sales and trends
   - Sales breakdown by order status
@@ -83,7 +83,7 @@ To provide **Vmart** with a comprehensive analysis of annual sales data by focus
 
 ---
 
-### **Day 3 – Product & Channel Analysis**
+### **3 – Product & Channel Analysis**
 - Identified **highest-selling products and categories**
 - Used **VLOOKUP** and **INDEX-MATCH** for cross-referencing
 - Evaluated **sales channel performance** (Online vs Retail)
@@ -92,7 +92,7 @@ To provide **Vmart** with a comprehensive analysis of annual sales data by focus
 
 ---
 
-### **Day 4 – Customer Insights & Dashboard Development**
+### **4 – Customer Insights & Dashboard Development**
 - Analyzed:
   - Repeat vs. new customers
   - Highest average order value by segment
@@ -107,7 +107,7 @@ To provide **Vmart** with a comprehensive analysis of annual sales data by focus
 
 ---
 
-### **Day 5 – Final Analysis & Presentation**
+### **5 – Final Analysis & Presentation**
 - Reviewed all analytical results for accuracy
 - Enhanced the dashboard with slicers for interactivity
 - Created a **presentation video** (`Dashboard presentation.mp4`) summarizing:
@@ -153,25 +153,10 @@ The interactive dashboard empowers Vmart to:
 
 ---
 
-## 📁 Deliverables
-
-| File | Description |
-|------|--------------|
-| `Annual_Sales_Report_Analytical_Focus_Problem_Statement.pdf` | Project brief and task plan |
-| `Dashboard presentation.mp4` | Presentation video of final dashboard and insights |
-| `Vmart_Store_Sales.xlsx` | Cleaned and prepared dataset *(not included here)* |
-| `README.md` | Project documentation |
-
----
-
 ## 👩‍💻 Author
 **Nisha Rai**  
-📍 Data Analyst | Excel & Power BI Enthusiast  
+📍 Data Analyst | Excel  
 Focused on deriving meaningful insights through data visualization, storytelling, and business intelligence.  
 
-🌐 *Connect:*  
-[LinkedIn](#) | [GitHub](#) | [Portfolio](#)
-
----
 
 > “Data is the new oil — but insights are the engine that drive success.” 🚀
